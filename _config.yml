@@ -1,3 +1,8 @@
+---
+title: "Welcome"
+date: 2020-06-30
+---
+
 title: Data Whispers
 author: Elizabeth Jean
 email: your-email@domain.com
@@ -9,7 +14,4 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
----
-title: "Welcome"
-date: 2020-06-30
----
+
